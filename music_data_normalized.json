@@ -1,0 +1,574 @@
+[
+  {
+    "song_title": "Smoke Gets in Your Eyes",
+    "artist": "Platters",
+    "bpm": "060",
+    "dances": [
+      "Slow Dance"
+    ]
+  },
+  {
+    "song_title": "Falling in Love",
+    "artist": "Elvis",
+    "bpm": "066",
+    "dances": [
+      "Slow Dance"
+    ]
+  },
+  {
+    "song_title": "All in the Game",
+    "artist": "Tommy Edwards",
+    "bpm": "072",
+    "dances": [
+      "Slow Dance"
+    ]
+  },
+  {
+    "song_title": "Blame It on Texas",
+    "artist": "Mark Chestnut",
+    "bpm": "075-150",
+    "dances": [
+      "Texas Two Step"
+    ]
+  },
+  {
+    "song_title": "Chattanooga Choo Choo",
+    "artist": "Glenn Miller",
+    "bpm": "075-150",
+    "dances": [
+      "Swing"
+    ]
+  },
+  {
+    "song_title": "Only You",
+    "artist": "Platters",
+    "bpm": "078",
+    "dances": [
+      "Slow Dance"
+    ]
+  },
+  {
+    "song_title": "Blue Rose of Texas",
+    "artist": "Holly Dunn",
+    "bpm": "078-156",
+    "dances": [
+      "Texas Two Step"
+    ]
+  },
+  {
+    "song_title": "Mack the Knife",
+    "artist": "Bobby Darin",
+    "bpm": "078-156",
+    "dances": [
+      "Swing",
+      "Foxtrot"
+    ]
+  },
+  {
+    "song_title": "Baby’s Gonna Rock It",
+    "artist": "Tractors",
+    "bpm": "078-156",
+    "dances": [
+      "Swing"
+    ]
+  },
+  {
+    "song_title": "Better Man",
+    "artist": "Clint Black",
+    "bpm": "081-162",
+    "dances": [
+      "Texas Two Step"
+    ]
+  },
+  {
+    "song_title": "In the Mood",
+    "artist": "Glenn Miller",
+    "bpm": "081-162",
+    "dances": [
+      "Swing",
+      "Foxtrot"
+    ]
+  },
+  {
+    "song_title": "Mama Knows the Hiway",
+    "artist": "Hal Ketchum",
+    "bpm": "084-168",
+    "dances": [
+      "Texas Two Step"
+    ]
+  },
+  {
+    "song_title": "Jailhouse Rock",
+    "artist": "Elvis",
+    "bpm": "084-168",
+    "dances": [
+      "Swing"
+    ]
+  },
+  {
+    "song_title": "Unforgettable",
+    "artist": "Nat, Natalie Cole",
+    "bpm": "084",
+    "dances": [
+      "Slow Dance"
+    ]
+  },
+  {
+    "song_title": "Fool Hearted Memory",
+    "artist": "George Strait",
+    "bpm": "087-174",
+    "dances": [
+      "Texas Two Step"
+    ]
+  },
+  {
+    "song_title": "Black Velvet",
+    "artist": "Alannah Myles",
+    "bpm": "090",
+    "dances": [
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "Chattahoochee",
+    "artist": "Alan Jackson",
+    "bpm": "090-180",
+    "dances": [
+      "Texas Two Step"
+    ]
+  },
+  {
+    "song_title": "Hooked on Swing",
+    "artist": "Les Elgart",
+    "bpm": "090-180",
+    "dances": [
+      "Swing"
+    ]
+  },
+  {
+    "song_title": "Could I Have This Dance ?",
+    "artist": "Anne Murray",
+    "bpm": "093",
+    "dances": [
+      "Waltz"
+    ]
+  },
+  {
+    "song_title": "Heartbreak Hotel",
+    "artist": "Elvis",
+    "bpm": "093",
+    "dances": [
+      "Slow Dance",
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "Past the Point of Rescue",
+    "artist": "Hal Ketchum",
+    "bpm": "093-186",
+    "dances": [
+      "Texas Two Step"
+    ]
+  },
+  {
+    "song_title": "Tequila",
+    "artist": "Champs",
+    "bpm": "093-186",
+    "dances": [
+      "Mambo",
+      "Swing"
+    ]
+  },
+  {
+    "song_title": "Bad to the Bone",
+    "artist": "G. Thorogood",
+    "bpm": "096",
+    "dances": [
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "Down at the Twist & Shout",
+    "artist": "M C Carpenter",
+    "bpm": "096-192",
+    "dances": [
+      "Texas Two Step",
+      "Swing"
+    ]
+  },
+  {
+    "song_title": "Zoot Suit Riot",
+    "artist": "Cherry P. Daddies",
+    "bpm": "096-192",
+    "dances": [
+      "Swing"
+    ]
+  },
+  {
+    "song_title": "Saturday Night",
+    "artist": "Billydean/Eagles",
+    "bpm": "099",
+    "dances": [
+      "Waltz"
+    ]
+  },
+  {
+    "song_title": "San Antonio Rose",
+    "artist": "Asleep At Wheel",
+    "bpm": "099-198",
+    "dances": [
+      "Polka",
+      "Texas Two Step"
+    ]
+  },
+  {
+    "song_title": "Jump Jive and Wail",
+    "artist": "Brian Setzer",
+    "bpm": "099-198",
+    "dances": [
+      "Swing"
+    ]
+  },
+  {
+    "song_title": "Sexual Healing",
+    "artist": "Marvin Gaye",
+    "bpm": "099",
+    "dances": [
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "Shagging on the Blvd",
+    "artist": "Alabama",
+    "bpm": "102",
+    "dances": [
+      "Slow Polka"
+    ]
+  },
+  {
+    "song_title": "Shoop",
+    "artist": "Salt 'N Pepa",
+    "bpm": "102",
+    "dances": [
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "Neon Moon",
+    "artist": "Brooks And Dunn",
+    "bpm": "105",
+    "dances": [
+      "Slow Polka"
+    ]
+  },
+  {
+    "song_title": "Into the Night",
+    "artist": "Bb King",
+    "bpm": "105",
+    "dances": [
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "In the Midnight Hour",
+    "artist": "Wilson Pickett",
+    "bpm": "108",
+    "dances": [
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "Friends in Low Places",
+    "artist": "Garth Brooks",
+    "bpm": "108",
+    "dances": [
+      "Slow Polka"
+    ]
+  },
+  {
+    "song_title": "Estrellita",
+    "artist": "Unk Ballroom",
+    "bpm": "108",
+    "dances": [
+      "Rumba"
+    ]
+  },
+  {
+    "song_title": "You Look So Good in Love",
+    "artist": "George Strait",
+    "bpm": "111",
+    "dances": [
+      "Western Waltz"
+    ]
+  },
+  {
+    "song_title": "Mountain Music",
+    "artist": "Alabama",
+    "bpm": "111",
+    "dances": [
+      "Polka"
+    ]
+  },
+  {
+    "song_title": "Tequila Sunrise",
+    "artist": "Eagles",
+    "bpm": "111",
+    "dances": [
+      "Polka"
+    ]
+  },
+  {
+    "song_title": "Respect",
+    "artist": "Aretha Franklin",
+    "bpm": "111",
+    "dances": [
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "Black Magic Woman",
+    "artist": "Santana",
+    "bpm": "114",
+    "dances": [
+      "Cha Cha"
+    ]
+  },
+  {
+    "song_title": "Heard It Thru Grapevine",
+    "artist": "Marvin Gaye",
+    "bpm": "114",
+    "dances": [
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "Someday Soon",
+    "artist": "Suzy Bogguss",
+    "bpm": "114",
+    "dances": [
+      "Polka"
+    ]
+  },
+  {
+    "song_title": "No Thinkin' Thing",
+    "artist": "Trace Adkins",
+    "bpm": "117",
+    "dances": [
+      "Polka"
+    ]
+  },
+  {
+    "song_title": "Caribbean Queen",
+    "artist": "Billy Ocean",
+    "bpm": "117",
+    "dances": [
+      "Whip",
+      "Cha Cha"
+    ]
+  },
+  {
+    "song_title": "Moliendo Cafe",
+    "artist": "Unk Ballroom",
+    "bpm": "117",
+    "dances": [
+      "Samba"
+    ]
+  },
+  {
+    "song_title": "Shut Up and Kiss Me",
+    "artist": "M C Carpenter",
+    "bpm": "120",
+    "dances": [
+      "Polka",
+      "Whip"
+    ]
+  },
+  {
+    "song_title": "New York, New York",
+    "artist": "Frank Sinatra",
+    "bpm": "120",
+    "dances": [
+      "Foxtrot"
+    ]
+  },
+  {
+    "song_title": "Smooth Operator",
+    "artist": "Sade",
+    "bpm": "120",
+    "dances": [
+      "Whip",
+      "Cha Cha"
+    ]
+  },
+  {
+    "song_title": "Amarillo by Morning",
+    "artist": "George Strait",
+    "bpm": "123",
+    "dances": [
+      "Polka"
+    ]
+  },
+  {
+    "song_title": "Oye Como Va",
+    "artist": "Santana",
+    "bpm": "123",
+    "dances": [
+      "Cha Cha"
+    ]
+  },
+  {
+    "song_title": "Be a Cowboys Sweetheart",
+    "artist": "Suzy Bogguss",
+    "bpm": "126",
+    "dances": [
+      "Polka"
+    ]
+  },
+  {
+    "song_title": "String of Pearls",
+    "artist": "Glenn Miller",
+    "bpm": "129",
+    "dances": [
+      "Foxtrot"
+    ]
+  },
+  {
+    "song_title": "My Maria",
+    "artist": "Brooks And Dunn",
+    "bpm": "132",
+    "dances": [
+      "Fast Polka"
+    ]
+  },
+  {
+    "song_title": "Kiss from a Rose",
+    "artist": "Seal",
+    "bpm": "132",
+    "dances": [
+      "Waltz"
+    ]
+  },
+  {
+    "song_title": "Hernando’s Hideaway",
+    "artist": "Unk Ballroom",
+    "bpm": "132",
+    "dances": [
+      "Tango"
+    ]
+  },
+  {
+    "song_title": "Hot Hot Hot",
+    "artist": "Bruce Poindexter",
+    "bpm": "135",
+    "dances": [
+      "Merengue"
+    ]
+  },
+  {
+    "song_title": "Devil Went Down Georgia",
+    "artist": "Charlie Daniels",
+    "bpm": "135",
+    "dances": [
+      "Fast Polka"
+    ]
+  },
+  {
+    "song_title": "Jalousie",
+    "artist": "Unk Ballroom",
+    "bpm": "135",
+    "dances": [
+      "Tango"
+    ]
+  },
+  {
+    "song_title": "Moondance",
+    "artist": "Van Morrison",
+    "bpm": "138",
+    "dances": [
+      "Jitterbug",
+      "Foxtrot"
+    ]
+  },
+  {
+    "song_title": "Shiny Stockings",
+    "artist": "Count Basie",
+    "bpm": "138",
+    "dances": [
+      "Lindy Hop",
+      "Jitterbug"
+    ]
+  },
+  {
+    "song_title": "Peaceful Easy Feeling",
+    "artist": "Eagles",
+    "bpm": "141",
+    "dances": [
+      "Slow Two Step"
+    ]
+  },
+  {
+    "song_title": "Don’t Rock the Jukebox",
+    "artist": "Alan Jackson",
+    "bpm": "144",
+    "dances": [
+      "Slow Two Step"
+    ]
+  },
+  {
+    "song_title": "Burning Love",
+    "artist": "Elvis",
+    "bpm": "144",
+    "dances": [
+      "Jitterbug"
+    ]
+  },
+  {
+    "song_title": "Sultans of Swing",
+    "artist": "Dire Straits",
+    "bpm": "147",
+    "dances": [
+      "Jitterbug"
+    ]
+  },
+  {
+    "song_title": "Brown Eyed Girl",
+    "artist": "Van Morrison",
+    "bpm": "150",
+    "dances": [
+      "Swing",
+      "Jitterbug"
+    ]
+  },
+  {
+    "song_title": "Orange Blossom Special",
+    "artist": "Charlie Daniels",
+    "bpm": "177",
+    "dances": [
+      "Fastest Polka"
+    ]
+  },
+  {
+    "song_title": "Piano Man",
+    "artist": "Billy Joel",
+    "bpm": "177",
+    "dances": [
+      "Viennese Waltz"
+    ]
+  },
+  {
+    "song_title": "Sing Sing Sing",
+    "artist": "Benny Goodman",
+    "bpm": "222",
+    "dances": [
+      "Fast Swing"
+    ]
+  },
+  {
+    "song_title": "Hoodoo Voodoo Doll",
+    "artist": "B B Voodoo Dads",
+    "bpm": "120-240",
+    "dances": [
+      "Fast Swing"
+    ]
+  }
+]
