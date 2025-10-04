@@ -9,14 +9,15 @@ import sqlite3
 conn = sqlite3.connect('music_speed.db')
 cursor = conn.cursor()
 
-# Query all songs with their dances
+# Query all songs with their dances and YouTube URLs
 cursor.execute('''
     SELECT
         s.song_id,
         s.title,
         s.artist,
         s.bpm,
-        GROUP_CONCAT(d.name, ', ') as dances
+        GROUP_CONCAT(d.name, ', ') as dances,
+        s.youtube_url
     FROM songs s
     LEFT JOIN song_dances sd ON s.song_id = sd.song_id
     LEFT JOIN dances d ON sd.dance_id = d.dance_id
@@ -74,6 +75,17 @@ html = '''<!DOCTYPE html>
         .dances {
             color: #0066cc;
         }
+        .youtube {
+            text-align: center;
+        }
+        .youtube a {
+            color: #ff0000;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .youtube a:hover {
+            text-decoration: underline;
+        }
         .footer {
             text-align: center;
             margin-top: 20px;
@@ -91,18 +103,21 @@ html = '''<!DOCTYPE html>
                 <th>Song Title</th>
                 <th>Artist</th>
                 <th>Suggested Dances</th>
+                <th>YouTube</th>
             </tr>
         </thead>
         <tbody>
 '''
 
 # Add rows
-for song_id, title, artist, bpm, dances in songs:
+for song_id, title, artist, bpm, dances, youtube_url in songs:
+    youtube_link = f'<a href="{youtube_url}" target="_blank">▶ Play</a>' if youtube_url else ''
     html += f'''            <tr>
                 <td class="bpm">{bpm}</td>
                 <td>{title}</td>
                 <td>{artist}</td>
                 <td class="dances">{dances or ''}</td>
+                <td class="youtube">{youtube_link}</td>
             </tr>
 '''
 
